@@ -1,5 +1,5 @@
-# Task Management Application
-This is a simple Task Management application built with Next.js, using Server Actions for CRUD operations and MongoDB for data persistence.
+# Workshop Task management 
+A simple Task Management application built with Next.js, using Server Actions for CRUD operations and MongoDB for data persistence.
 
 ## Features
 - Create, read, update, and delete tasks
@@ -26,7 +26,3 @@ This is a simple Task Management application built with Next.js, using Server Ac
 - **updateTask(id, updates)** → Update an existing task completion status.
 - **editTask(id, updatedFields)** → Partially update a task.
 - **deleteTask(id)** → Delete a task from the database.
-
-[![Watch the video](https://img.youtube.com/vi/sPUYXGsRi1I/maxresdefault.jpg)](https://youtu.be/sPUYXGsRi1I)
-
-### [Demo and Explanation ](https://youtu.be/sPUYXGsRi1I)
