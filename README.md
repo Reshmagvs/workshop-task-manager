@@ -27,7 +27,5 @@ A simple Task Management application built with Next.js, using Server Actions fo
 
 ## Further Explanation  
 Credit: [Tushar292004](https://github.com/Tushar292004)  
-
-### YouTube Video  
 Watch the video here: [Click Here](https://www.youtube.com/watch?v=sPUYXGsRi1I)
 
