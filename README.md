@@ -14,7 +14,7 @@ A simple Task Management application built with Next.js, using Server Actions fo
 - Styling: Tailwind CSS and shadcn/ui components
 - Deployment: Vercel
 
-##Detailed instructions :
+## Detailed instructions :
 
 [Open in Google Colab](https://colab.research.google.com/drive/1shUcBNm6x6uM4-_QRt1kv3NrnVRum_8k)
 
@@ -24,3 +24,10 @@ A simple Task Management application built with Next.js, using Server Actions fo
 - **updateTask(id, updates)** → Update an existing task completion status.
 - **editTask(id, updatedFields)** → Partially update a task.
 - **deleteTask(id)** → Delete a task from the database.
+
+## Further Explanation  
+Credit: [Tushar292004](https://github.com/Tushar292004)  
+
+### YouTube Video  
+Watch the video here: [Click Here](https://www.youtube.com/watch?v=sPUYXGsRi1I)
+
