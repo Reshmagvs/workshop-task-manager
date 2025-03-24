@@ -1,6 +1,8 @@
 # Workshop Task management 
 A simple Task Management application built with Next.js, using Server Actions for CRUD operations and MongoDB for data persistence.
 
+![Alt text](https://github.com/Reshmagvs/workshop-task-manager/blob/main/task-manage-pp.png)
+
 ## Features
 - Create, read, update, and delete tasks
 - Mark tasks as complete/incomplete
